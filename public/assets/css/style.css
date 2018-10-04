@@ -1,5 +1,5 @@
 .jumbotron {
-  margin-top: 50px;
+  margin-top: 30px;
   background: url("/assets/img/bg-fund-management.jpg") no-repeat center center;
 }
 
@@ -24,7 +24,7 @@ body{
   padding: 5px;
 }
 .tendies{
-  margin-top: 50px;
+  margin-top: 30px;
 }
 #chickentendies{
   border-radius : 50%;
