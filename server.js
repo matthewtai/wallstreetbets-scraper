@@ -60,7 +60,7 @@ app.get("/scrape", function(req, res) {
     // Load the html body from request into cheerio
     var $ = cheerio.load(html);
     $('p.title').each(function(i, element) {
-t
+
       var title = $(element).text();
       var link = $(element).children().attr("href");
       
