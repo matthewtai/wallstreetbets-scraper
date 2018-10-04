@@ -1,0 +1,32 @@
+.jumbotron {
+  margin-top: 50px;
+  background: url("/assets/img/bg-fund-management.jpg") no-repeat center center;
+}
+
+body{
+  background: url("/assets/img/linen.png")
+}
+.logo{
+  width: 350px;
+}
+
+.lead {
+  font-size: 40px;
+  font-weight: bolder;
+}
+
+.btn-primary {
+  background-color: #345c43;
+  color: white !important;
+}
+
+.note-item-list {
+  padding: 5px;
+}
+.tendies{
+  margin-top: 50px;
+}
+#chickentendies{
+  border-radius : 50%;
+  width: 20%;
+}
